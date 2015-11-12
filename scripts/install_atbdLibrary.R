@@ -4,7 +4,7 @@ library(devtools)
 # #install_github("NEONInc/devTOS",
 #                subdir="atbdLibrary",
 #                auth_user="cflagg",
-#                auth_token = "8bb50ead577face7e6648c3103a66960670c47d7")
+#                auth_token = "<SSH KEY>")
 
 ## will install local version of library
 devtools::install("C:/Users/cflagg/Documents/GitHub/devTOS/atbdLibrary")
